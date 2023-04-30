@@ -2,11 +2,25 @@
 
 This is the official snippets extension for [Neptune CSS](https://github.com/neptune-css/neptune-css).
 
+## v1.1.0
+
+### Added
+
+- Example page
+- Main headline
+- Secondary headline
+
 ## Table of contents
 
 - [Neptune CSS snippets](#neptune-css-snippets)
+  - [v1.1.0](#v110)
+    - [Added](#added)
   - [Table of contents](#table-of-contents)
-  - [Component example](#component-example)
+  - [Examples](#examples)
+    - [Example page](#example-page)
+    - [Main headline](#main-headline)
+    - [Secondary headline](#secondary-headline)
+    - [Compnent example](#compnent-example)
   - [Badges](#badges)
     - [Badge sizes](#badge-sizes)
       - [Badge S](#badge-s)
@@ -56,8 +70,24 @@ This is the official snippets extension for [Neptune CSS](https://github.com/nep
       - [Toast error](#toast-error)
   - [Author](#author)
 
-## Component example
+## Examples
 
+### Example page
+```
+neptune-example-page
+```
+
+### Main headline
+```
+neptune-main-headline
+```
+
+### Secondary headline
+```
+neptune-secondary-headline
+```
+
+### Compnent example
 ```
 neptune-example
 ```

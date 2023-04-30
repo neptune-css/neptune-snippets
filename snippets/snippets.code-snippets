@@ -1,11 +1,55 @@
 {
+    // HTML Examples
+    // Example page
+    "Neptune example page": {
+        "scope": "html",
+        "prefix": "neptune-example-page",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html lang=\"en\">",
+            "   <head>",
+            "       <meta charset=\"UTF-8\">",
+            "       <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+            "       <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+            "       ",
+            "       <!-- Import example style -->",
+            "       <link rel=\"stylesheet\" href=\"/examamples/example_style.min.css\">",
+            "       ",
+            "       <!-- Import neptune ui -->",
+            "       <link rel=\"stylesheet\" href=\"/neptune.css\">",
+            "       ",
+            "       <link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/favicon.ico\">",
+            "       <title>${1:Title} | Neptune examples</title>",
+            "   </head>",
+            "   <body>",
+            "       ${2:Content}",
+            "   </body>",
+            "</html>"
+        ],
+        "description": "Neptune example page template"
+    } ,
+    // Main headline
+    "Neptune main headline": {
+        "scope": "html",
+        "prefix": "neptune-main-headline",
+        "body": "<h1 class=\"main-headmline\">${1:Main headline}</h1>",
+        "description": "Neptune examples main headline"
+    } ,
+    // Secondary headline
+    "Neptune secondary headline": {
+        "scope": "html",
+        "prefix": "neptune-secondary-headline",
+        "body": "<h1 class=\"secondary-headmline\">${1:Secondary headline}</h1>",
+        "description": "Neptune examples secondary headline"
+    } ,
+    // Component example
     "Neptune component example": {
         "scope": "html",
         "prefix": "neptune-example",
         "body": [
             "<div class=\"example-box\">",
-            "    <h3 class=\"example-title\">Example box</h3>",
-            "    ${1:<!-- Exammple content -->}",
+            "    <h3 class=\"example-title\">${1:Example title}</h3>",
+            "    ${2:<!-- Exammple content -->}",
             "</div>"
         ],
         "description": "Neptune component example"
