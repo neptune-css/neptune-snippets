@@ -1,0 +1,31 @@
+{
+  "name": "neptune-snippets",
+  "displayName": "Neptune snippets",
+  "icon": "icon.png",
+  "description": "VS Code snippets for Neptune CSS",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "CGWebDev2003",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neptune-css/neptune-snippets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neptune-css/neptune-snippets/issues"
+  },
+  "homepage": "https://github.com/neptune-css/neptune-snippets#readme",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
