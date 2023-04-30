@@ -1,9 +1,10 @@
 {
   "name": "neptune-snippets",
   "displayName": "Neptune snippets",
+  "publisher": "NeptuneCSS",
   "icon": "icon.png",
   "description": "VS Code snippets for Neptune CSS",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "author": "CGWebDev2003",
   "repository": {
