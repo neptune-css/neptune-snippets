@@ -2,18 +2,16 @@
 
 This is the official snippets extension for [Neptune CSS](https://github.com/neptune-css/neptune-css).
 
-## v1.1.0
+## What's new in v1.2.0?
 
 ### Added
 
-- Example page
-- Main headline
-- Secondary headline
+- 
 
 ## Table of contents
 
 - [Neptune CSS snippets](#neptune-css-snippets)
-  - [v1.1.0](#v110)
+  - [What's new in v1.2.0?](#whats-new-in-v120)
     - [Added](#added)
   - [Table of contents](#table-of-contents)
   - [Examples](#examples)
@@ -46,6 +44,18 @@ This is the official snippets extension for [Neptune CSS](https://github.com/nep
       - [Button success](#button-success)
       - [Button warning](#button-warning)
       - [Button error](#button-error)
+  - [Links](#links)
+    - [Link sizes](#link-sizes)
+      - [Link S](#link-s)
+      - [Link M](#link-m)
+      - [Link L](#link-l)
+    - [Link styles](#link-styles)
+      - [Link primary](#link-primary)
+      - [Link accent](#link-accent)
+      - [Link information](#link-information)
+      - [Link success](#link-success)
+      - [Link warning](#link-warning)
+      - [Link error](#link-error)
   - [Progress bars](#progress-bars)
     - [Progress bar sizes](#progress-bar-sizes)
       - [Progress bar XS](#progress-bar-xs)
@@ -60,6 +70,17 @@ This is the official snippets extension for [Neptune CSS](https://github.com/nep
       - [Progress bar success](#progress-bar-success)
       - [Progress bar warning](#progress-bar-warning)
       - [Progress bar error](#progress-bar-error)
+  - [Spinner](#spinner)
+    - [Spinner styles](#spinner-styles)
+      - [Spinner primary](#spinner-primary)
+      - [Spinner accent](#spinner-accent)
+      - [Spinner information](#spinner-information)
+      - [Spinner success](#spinner-success)
+      - [Spinner warning](#spinner-warning)
+      - [Spinner error](#spinner-error)
+    - [Spinner animations](#spinner-animations)
+      - [Spinner linear](#spinner-linear)
+      - [Spinner eased](#spinner-eased)
   - [Toasts](#toasts)
     - [Toast styles](#toast-styles)
       - [Toast primary](#toast-primary)
@@ -207,6 +228,60 @@ neptune-button-warning
 neptune-button-error
 ```
 
+## Links
+```
+neptune-link
+```
+
+### Link sizes
+
+#### Link S
+```
+neptune-link-s
+```
+
+#### Link M
+```
+neptune-link-m
+```
+
+#### Link L
+```
+neptune-link-l
+```
+
+### Link styles
+
+#### Link primary
+```
+neptune-link-primary
+```
+
+#### Link accent
+```
+neptune-link-accent
+```
+
+#### Link information
+```
+neptune-link-info
+```
+
+#### Link success
+```
+neptune-link-success
+```
+
+#### Link warning
+```
+neptune-link-warning
+```
+
+#### Link error
+```
+neptune-link-error
+```
+
 ## Progress bars
 ```
 neptune-progress
@@ -269,6 +344,52 @@ neptune-progress-warning
 #### Progress bar error
 ```
 neptune-progress-error
+```
+
+## Spinner
+
+### Spinner styles
+
+#### Spinner primary
+```
+neptune-spinner-primary
+```
+
+#### Spinner accent
+```
+neptune-spinner-accent
+```
+
+#### Spinner information
+```
+neptune-spinner-info
+```
+
+#### Spinner success
+```
+neptune-spinner-success
+```
+
+#### Spinner warning
+```
+neptune-spinner-warning
+```
+
+#### Spinner error
+```
+neptune-spinner-error
+```
+
+### Spinner animations
+
+#### Spinner linear
+```
+neptune-spinner-linear
+```
+
+#### Spinner eased
+```
+neptune-spinner-eased
 ```
 
 ## Toasts
