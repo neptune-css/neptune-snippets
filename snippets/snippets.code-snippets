@@ -188,6 +188,70 @@
         "body": "<button class=\"button-error\">${1:Error}</button>",
         "description": "Error button"
     },
+    // Links
+    // Default link 
+    "Neptune link": {
+        "scope": "html",
+        "prefix": "neptune-link",
+        "body": "<a class= \"link text-l\" title=\"${1:Link}\" href=\"${2:#}\">${3:Link}</a>",
+        "description": "Default link"
+    },
+    // Link sizes
+    "Neptune link S": {
+        "scope": "html",
+        "prefix": "neptune-link-s",
+        "body": "<a class= \"link text-s\" title=\"${1:Link S}\" href=\"${2:#}\">${3:Link S}</a>",
+        "description": "Link S"
+    },
+    "Neptune link M": {
+        "scope": "html",
+        "prefix": "neptune-link-m",
+        "body": "<a class= \"link text-m\" title=\"${1:Link M}\" href=\"${2:#}\">${3:Link M}</a>",
+        "description": "Link M"
+    },
+    "Neptune link L": {
+        "scope": "html",
+        "prefix": "neptune-link-l",
+        "body": "<a class= \"link text-l\" title=\"${1:Link L}\" href=\"${2:#}\">${3:Link L}</a>",
+        "description": "Link L"
+    },
+    // Link styles
+    "Neptune link primary": {
+        "scope": "html",
+        "prefix": "neptune-link-primary",
+        "body": "<a class= \"link text-l link-primary\" title=\"${1:Link}\" href=\"${2:#}\">${3:Link}</a>",
+        "description": "Link primary"
+    },
+    "Neptune link accent": {
+        "scope": "html",
+        "prefix": "neptune-link-accent",
+        "body": "<a class= \"link text-l link-accent\" title=\"${1:Link}\" href=\"${2:#}\">${3:Link}</a>",
+        "description": "Link accent"
+    },
+    "Neptune link information": {
+        "scope": "html",
+        "prefix": "neptune-link-info",
+        "body": "<a class= \"link text-l link-info\" title=\"${1:Link}\" href=\"${2:#}\">${3:Link}</a>",
+        "description": "Link information"
+    },
+    "Neptune link success": {
+        "scope": "html",
+        "prefix": "neptune-link-success",
+        "body": "<a class= \"link text-l link-success\" title=\"${1:Link}\" href=\"${2:#}\">${3:Link}</a>",
+        "description": "Link success"
+    },
+    "Neptune link warning": {
+        "scope": "html",
+        "prefix": "neptune-link-warning",
+        "body": "<a class= \"link text-l link-warning\" title=\"${1:Link}\" href=\"${2:#}\">${3:Link}</a>",
+        "description": "Link warning"
+    },
+    "Neptune link error": {
+        "scope": "html",
+        "prefix": "neptune-link-error",
+        "body": "<a class= \"link text-l link-error\" title=\"${1:Link}\" href=\"${2:#}\">${3:Link}</a>",
+        "description": "Link error"
+    },
     // Progress bar
     // Default bar
     "Neptune progress bar": {
@@ -311,6 +375,97 @@
             "</div>"
         ],
         "description": "Progress bar error"
+    },
+    // Spinner
+    // Spinner styles
+    "Neptune spinner primary": {
+        "scope": "html",
+        "prefix": "neptune-spinner-primary",
+        "body": [
+            "<div class=\"spinner spinner-primary spin-linear\">",
+            "   <div class=\"spinner-inner\"></div>",
+            "   <div class=\"spinner-hole\"></div>",
+            "</div>",
+        ],
+        "description": "Spinner primary"
+    },
+    "Neptune spinner accent": {
+        "scope": "html",
+        "prefix": "neptune-spinner-accent",
+        "body": [
+            "<div class=\"spinner spinner-accent spin-linear\">",
+            "   <div class=\"spinner-inner\"></div>",
+            "   <div class=\"spinner-hole\"></div>",
+            "</div>",
+        ],
+        "description": "Spinner accent"
+    },
+    "Neptune spinner information": {
+        "scope": "html",
+        "prefix": "neptune-spinner-info",
+        "body": [
+            "<div class=\"spinner spinner-info spin-linear\">",
+            "   <div class=\"spinner-inner\"></div>",
+            "   <div class=\"spinner-hole\"></div>",
+            "</div>",
+        ],
+        "description": "Spinner information"
+    },
+    "Neptune spinner success": {
+        "scope": "html",
+        "prefix": "neptune-spinner-success",
+        "body": [
+            "<div class=\"spinner spinner-success spin-linear\">",
+            "   <div class=\"spinner-inner\"></div>",
+            "   <div class=\"spinner-hole\"></div>",
+            "</div>",
+        ],
+        "description": "Spinner success"
+    },
+    "Neptune spinner warning": {
+        "scope": "html",
+        "prefix": "neptune-spinner-warning",
+        "body": [
+            "<div class=\"spinner spinner-warning spin-linear\">",
+            "   <div class=\"spinner-inner\"></div>",
+            "   <div class=\"spinner-hole\"></div>",
+            "</div>",
+        ],
+        "description": "Spinner warning"
+    },
+    "Neptune spinner error": {
+        "scope": "html",
+        "prefix": "neptune-spinner-error",
+        "body": [
+            "<div class=\"spinner spinner-error spin-linear\">",
+            "   <div class=\"spinner-inner\"></div>",
+            "   <div class=\"spinner-hole\"></div>",
+            "</div>",
+        ],
+        "description": "Spinner error"
+    },
+    // Spinner animations
+    "Neptune spinner linear": {
+        "scope": "html",
+        "prefix": "neptune-spinner-linear",
+        "body": [
+            "<div class=\"spinner spinner-primary spin-linear\">",
+            "   <div class=\"spinner-inner\"></div>",
+            "   <div class=\"spinner-hole\"></div>",
+            "</div>",
+        ],
+        "description": "Spinner linear"
+    },
+    "Neptune spinner eased": {
+        "scope": "html",
+        "prefix": "neptune-spinner-eased",
+        "body": [
+            "<div class=\"spinner spinner-primary spin-eased\">",
+            "   <div class=\"spinner-inner\"></div>",
+            "   <div class=\"spinner-hole\"></div>",
+            "</div>",
+        ],
+        "description": "Spinner eased"
     },
     // Toasts
     // Default toast
