@@ -2,18 +2,12 @@
 
 This is the official snippets extension for [Neptune CSS](https://github.com/neptune-css/neptune-css).
 
-## What's new in v1.2.0?
-
-### Added
-
-- 
-
 ## Table of contents
 
 - [Neptune CSS snippets](#neptune-css-snippets)
-  - [What's new in v1.2.0?](#whats-new-in-v120)
-    - [Added](#added)
   - [Table of contents](#table-of-contents)
+  - [What's new in v1.2.0?](#whats-new-in-v120)
+    - [Added:](#added)
   - [Examples](#examples)
     - [Example page](#example-page)
     - [Main headline](#main-headline)
@@ -90,6 +84,13 @@ This is the official snippets extension for [Neptune CSS](https://github.com/nep
       - [Toast warning](#toast-warning)
       - [Toast error](#toast-error)
   - [Author](#author)
+
+## What's new in v1.2.0?
+
+### Added:
+
+- [Links](#links)
+- [Spinner](#spinner)
 
 ## Examples
 
