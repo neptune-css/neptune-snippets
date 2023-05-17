@@ -1,6 +1,7 @@
-# Neptune CSS snippets
+![readme_banner_snippets](https://github.com/neptune-css/neptune-snippets/assets/122671813/cb4606a3-0498-43b2-9358-ca28cc68230d)
 
-This is the official snippets extension for [Neptune CSS](https://github.com/neptune-css/neptune-css).
+
+> This is the official snippets extension for [Neptune CSS](https://github.com/neptune-css/neptune-css).
 
 ## Table of contents
 
