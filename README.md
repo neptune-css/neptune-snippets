@@ -1,6 +1,3 @@
-![logo_150x150](https://github.com/neptune-css/neptune-snippets/assets/122671813/79d759b8-c71e-4079-ab2b-5a7b6cc8ab44)
-
-
 # Welcome to [Neptune CSS](https://neptunecss.org) Snippets!
 
 ![](https://img.shields.io/github/v/tag/neptune-css/neptune-snippets?color=%2300AACC) ![](https://img.shields.io/npm/dm/@neptune-css/neptune?color=%2300AACC) ![](https://img.shields.io/npm/l/@neptune-css/neptune?color=%2300AACC) 
