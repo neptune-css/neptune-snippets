@@ -1,0 +1,66 @@
+{
+    // Badges
+    // Default badge
+    "Neptune default badge": {
+        "scope": "html",
+        "prefix": "neptune-badge",
+        "body": "<span class=\"badge\">${1:Default}</span>",
+        "description": "Default badge"
+    },
+    // Badge sizes
+    "Neptune badge S": {
+        "scope": "html",
+        "prefix": "neptune-badge-s",
+        "body": "<span class=\"badge badge-s\">${1:Badge S}</span>",
+        "description": "Badge S"
+    },
+    "Neptune badge M": {
+        "scope": "html",
+        "prefix": "neptune-badge-m",
+        "body": "<span class=\"badge badge-m\">${1:Badge M}</span>",
+        "description": "Badge M"
+    },
+    "Neptune badge L": {
+        "scope": "html",
+        "prefix": "neptune-badge-l",
+        "body": "<span class=\"badge badge-l\">${1:Badge L}</span>",
+        "description": "Badge L"
+    },
+    // Badge styles
+    "Neptune badge primary": {
+        "scope": "html",
+        "prefix": "neptune-badge-primary",
+        "body": "<span class=\"badge badge-primary\">${1:Primary}</span>",
+        "description": "Primary badge"
+    },
+    "Neptune badge accent": {
+        "scope": "html",
+        "prefix": "neptune-badge-accent",
+        "body": "<span class=\"badge badge-accent\">${1:Accent}</span>",
+        "description": "Accent badge"
+    },
+    "Neptune badge information": {
+        "scope": "html",
+        "prefix": "neptune-badge-info",
+        "body": "<span class=\"badge badge-info\">${1:Information}</span>",
+        "description": "Information badge"
+    },
+    "Neptune badge success": {
+        "scope": "html",
+        "prefix": "neptune-badge-success",
+        "body": "<span class=\"badge badge-success\">${1:Success}</span>",
+        "description": "Success badge"
+    },
+    "Neptune badge warning": {
+        "scope": "html",
+        "prefix": "neptune-badge-warning",
+        "body": "<span class=\"badge badge-warning\">${1:Warning}</span>",
+        "description": "Warning badge"
+    },
+    "Neptune badge error": {
+        "scope": "html",
+        "prefix": "neptune-badge-error",
+        "body": "<span class=\"badge badge-error\">${1:Error}</span>",
+        "description": "Error badge"
+    }
+}

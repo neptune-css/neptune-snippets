@@ -1,0 +1,126 @@
+{
+    // Progress bar
+    // Default bar
+    "Neptune progress bar": {
+        "scope": "html",
+        "prefix": "neptune-progress",
+        "body": [
+            "<div class=\"progress\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Default progress bar"
+    },
+    // Progress bar sizes
+    "Neptune progress bar XS": {
+        "scope": "html",
+        "prefix": "neptune-progress-xs",
+        "body": [
+            "<div class=\"progress progress-xs\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar XS"
+    },
+    "Neptune progress bar S": {
+        "scope": "html",
+        "prefix": "neptune-progress-s",
+        "body": [
+            "<div class=\"progress progress-s\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar S"
+    },
+    "Neptune progress bar M": {
+        "scope": "html",
+        "prefix": "neptune-progress-m",
+        "body": [
+            "<div class=\"progress progress-m\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar M"
+    },
+    "Neptune progress bar L": {
+        "scope": "html",
+        "prefix": "neptune-progress-l",
+        "body": [
+            "<div class=\"progress progress-l\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar L"
+    },
+    "Neptune progress bar XL": {
+        "scope": "html",
+        "prefix": "neptune-progress-xl",
+        "body": [
+            "<div class=\"progress\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar XL"
+    },
+    // Progress bar styles
+    "Neptune progress bar primary": {
+        "scope": "html",
+        "prefix": "neptune-progress-primary",
+        "body": [
+            "<div class=\"progress progress-primary\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar primary"
+    },
+    "Neptune progress bar accent": {
+        "scope": "html",
+        "prefix": "neptune-progress-accent",
+        "body": [
+            "<div class=\"progress progress-accent\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar accent"
+    },
+    "Neptune progress bar information": {
+        "scope": "html",
+        "prefix": "neptune-progress-info",
+        "body": [
+            "<div class=\"progress progress-info\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar information"
+    },
+    "Neptune progress bar success": {
+        "scope": "html",
+        "prefix": "neptune-progress-success",
+        "body": [
+            "<div class=\"progress progress-success\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar success"
+    },
+    "Neptune progress bar warning": {
+        "scope": "html",
+        "prefix": "neptune-progress-warning",
+        "body": [
+            "<div class=\"progress progress-warning\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar warning"
+    },
+    "Neptune progress bar error": {
+        "scope": "html",
+        "prefix": "neptune-progress-error",
+        "body": [
+            "<div class=\"progress progress-error\">",
+            "    <div class=\"progress-bar\"></div>",
+            "</div>"
+        ],
+        "description": "Progress bar error"
+    }
+}
