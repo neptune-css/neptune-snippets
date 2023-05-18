@@ -1,6 +1,6 @@
 # Welcome to [Neptune CSS](https://neptunecss.org) Snippets!
 
-![](https://img.shields.io/github/v/tag/neptune-css/neptune-snippets?color=%2300AACC) ![](https://img.shields.io/npm/dm/@neptune-css/neptune-snippets?color=%2300AACC) ![](https://img.shields.io/npm/l/@neptune-css/neptune?color=%2300AACC) 
+![](https://img.shields.io/github/v/tag/neptune-css/neptune-snippets?color=%2300AACC) ![](https://img.shields.io/npm/dm/@neptune-css/neptune-snippets?color=%2300AACC) ![](https://img.shields.io/npm/l/@neptune-css/neptune-snippets?color=%2300AACC) 
 
 ***
 
