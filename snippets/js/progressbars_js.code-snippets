@@ -1,0 +1,20 @@
+{
+    // Progress Bar JS
+    "Neptune Toast": {
+        "scope": "javascript",
+        "prefix": "nep-progress-bar",
+        "body": "const ${1:myProgressBar} = new ProgressBar({${2:config}});",
+        "description": "Create a new Progress Bar"
+    },
+    "Progress Bar Configuration": {
+        "scope": "javascript",
+        "prefix": "nep-progress-bar-conf",
+        "body": [
+            "parent: \"${1:element}\",",
+            "size: \"${2:l}\",",
+            "style: \"${3:primary}\",",
+            "progress: \"${4:35}\""
+        ],
+        "description": "Add configuration to your Progress Bar"
+    }
+}
