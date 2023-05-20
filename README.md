@@ -8,12 +8,14 @@
 
 ## Table of contents
 
+- [Imports](https://github.com/neptune-css/neptune-snippets/wiki/Import-Neptune)
 - [Badges](https://github.com/neptune-css/neptune-snippets/wiki/Badges)
 - [Bottons](https://github.com/neptune-css/neptune-snippets/wiki/Buttons)
 - [Links](https://github.com/neptune-css/neptune-snippets/wiki/Links)
 - [Progress bars](https://github.com/neptune-css/neptune-snippets/wiki/Progress-bars)
 - [Spinner](https://github.com/neptune-css/neptune-snippets/wiki/Spinner)
 - [Toasts](https://github.com/neptune-css/neptune-snippets/wiki/Toasts)
+- [JavaScript Snippets](https://github.com/neptune-css/neptune-snippets/wiki/JavaScript-Snippets)
 
 ## Whats new?
 
@@ -25,7 +27,7 @@
 
 ## Getting started
 
-Download and install the snippets extension on the [vs code marketplace](https://marketplace.visualstudio.com/items?itemName=NeptuneCSS.neptune-snippets). Use the commands from this wiki or from the [documentation](https://neptune-css.gitbook.io/neptune-css-docs/vs-code-snippets).
+Download and install the snippets extension on the [vs code marketplace](https://marketplace.visualstudio.com/items?itemName=NeptuneCSS.neptunecss-snippets) or the [npm package](https://www.npmjs.com/package/neptunecss-js). Use the commands from this wiki or from the [documentation](https://neptune-css.gitbook.io/neptune-css-docs/vs-code-snippets).
 
 ## License
 
