@@ -4,7 +4,7 @@
   "publisher": "NeptuneCSS",
   "icon": "icon.png",
   "description": "VS Code snippets for Neptune CSS",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "license": "MIT",
   "author": "CGWebDev2003",
   "repository": {
@@ -25,31 +25,63 @@
     "snippets": [
       {
         "language": "html",
-        "path": "./snippets/badges.code-snippets"
+        "path": "./snippets/html/import.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/buttons.code-snippets"
+        "path": "./snippets/html/badges.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/examples.code-snippets"
+        "path": "./snippets/html/buttons.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/links.code-snippets"
+        "path": "./snippets/html/examples.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/progressbars.code-snippets"
+        "path": "./snippets/html/links.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/spinner.code-snippets"
+        "path": "./snippets/html/progressbars.code-snippets"
       },
       {
         "language": "html",
-        "path": "./snippets/toasts.code-snippets"
+        "path": "./snippets/html/spinner.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html/toasts.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js/import_js.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js/badges_js.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js/buttons_js.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js/links_js.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js/progressbars_js.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js/spinner_js.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js/toasts_js.code-snippets"
       }
     ]
   }

@@ -19,8 +19,9 @@
 
 #### Added:
 
-- [Links](#links)
-- [Spinner](#spinner)
+- Neptune CDN Imports
+- Neptune JS Imports
+- Neptune JS Snippets
 
 ## Getting started
 

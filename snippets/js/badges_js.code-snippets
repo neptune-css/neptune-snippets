@@ -1,0 +1,20 @@
+{
+    // Badges JS
+    "Neptune Default Badge": {
+        "scope": "javascript",
+        "prefix": "nep-badge",
+        "body": "const ${1:myBadge} = new Badge({${2:config}});",
+        "description": "Create a new default badge"
+    },
+    "Badge Configuration": {
+        "scope": "javascript",
+        "prefix": "nep-badge-conf",
+        "body": [
+            "parent: \"${1:element}\",",
+            "text: \"${2:default badge}\",",
+            "size: \"${3:m}\",",
+            "style: \"${4:primary}\""
+        ],
+        "description": "Add configuration to your badge"
+    }
+}

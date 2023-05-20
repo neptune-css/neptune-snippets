@@ -1,0 +1,21 @@
+{
+    // Toasts JS
+    "Neptune Toast": {
+        "scope": "javascript",
+        "prefix": "nep-toast",
+        "body": "const ${1:myToast} = new Toast({${2:config}});",
+        "description": "Create a new default toast"
+    },
+    "Toast Configuration": {
+        "scope": "javascript",
+        "prefix": "nep-toast-conf",
+        "body": [
+            "parent: \"${1:element}\",",
+            "icon: \"${2:icon}\",",
+            "text: \"${3:default badge}\",",
+            "style: \"${4:primary}\",",
+            "position: \"${5:right-top}\""
+        ],
+        "description": "Add configuration to your toast"
+    }
+}

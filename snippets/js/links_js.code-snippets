@@ -1,0 +1,22 @@
+{
+    // Links JS
+    "Neptune Link": {
+        "scope": "javascript",
+        "prefix": "nep-link",
+        "body": "const ${1:myLink} = new Link({${2:config}});",
+        "description": "Create a new default link"
+    },
+    "Link Configuration": {
+        "scope": "javascript",
+        "prefix": "nep-link-conf",
+        "body": [
+            "parent: \"${1:element}\",",
+            "text: \"${2:default badge}\",",
+            "size: \"${3:m}\",",
+            "style: \"${4:primary}\",",
+            "title: \"${5:title}\",",
+            "href: \"${6:url}\""
+        ],
+        "description": "Add configuration to your link"
+    }
+}

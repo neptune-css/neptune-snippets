@@ -6,6 +6,20 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [2.0.0] - 2023-05-18
+
+### Added
+
+- Import Neptune CSS CDN
+- Import Neptune Js CDN
+- Import Neptune JS
+- Neptune JS Badges
+- Neptune JS Buttons
+- Neptune JS Links
+- Neptune JS Spinner
+- Neptune JS Toasts
+- Neptune JS Progress Bars
+
 ## [1.3.0] - 2023-05-18
 
 ### Changed

@@ -1,0 +1,22 @@
+{
+    // Buttons JS
+    "Neptune Button": {
+        "scope": "javascript",
+        "prefix": "nep-button",
+        "body": "const ${1:myButton} = new Button({${2:config}});",
+        "description": "Create a new default button"
+    },
+    "Button Configuration": {
+        "scope": "javascript",
+        "prefix": "nep-button-conf",
+        "body": [
+            "parent: \"${1:element}\",",
+            "text: \"${2:default badge}\",",
+            "icon: \"${3:icon}\",",
+            "iconPosition: \"${4:left}\",",
+            "size: \"${5:m}\",",
+            "style: \"${6:primary}\""
+        ],
+        "description": "Add configuration to your button"
+    }
+}
