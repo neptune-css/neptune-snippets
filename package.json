@@ -4,7 +4,7 @@
   "publisher": "NeptuneCSS",
   "icon": "icon.png",
   "description": "VS Code snippets for Neptune CSS",
-  "version": "2.0.1",
+  "version": "2.0.4",
   "scripts": {
     "package": "C:/Users/colin/AppData/Roaming/npm/vsce package"
   },
@@ -21,9 +21,11 @@
   "engines": {
     "vscode": "^1.77.0"
   },
-  "categories": [
-    "Snippets"
-  ],
+  "categorie": "Snippets",
+  "optionalDependencies": {
+    "neptunecss": "^1.0.1",
+    "neptunecss-js": "^1.0.2"
+  },
   "contributes": {
     "snippets": [
       {

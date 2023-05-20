@@ -27,7 +27,7 @@
 
 ## Getting started
 
-Download and install the snippets extension on the [vs code marketplace](https://marketplace.visualstudio.com/items?itemName=NeptuneCSS.neptunecss-snippets) or the [npm package](https://www.npmjs.com/package/neptunecss-js). Use the commands from this wiki or from the [documentation](https://neptune-css.gitbook.io/neptune-css-docs/vs-code-snippets).
+Download and install the snippets extension on the [vs code marketplace](https://marketplace.visualstudio.com/items?itemName=NeptuneCSS.neptunecss-snippets) or the [npm package](https://www.npmjs.com/package/neptunecss-snippets). Use the commands from this wiki or from the [documentation](https://neptune-css.gitbook.io/neptune-css-docs/vs-code-snippets).
 
 ## License
 
