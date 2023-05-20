@@ -5,6 +5,9 @@
   "icon": "icon.png",
   "description": "VS Code snippets for Neptune CSS",
   "version": "2.0.1",
+  "scripts": {
+    "package": "C:/Users/colin/AppData/Roaming/npm/vsce package"
+  },
   "license": "MIT",
   "author": "CGWebDev2003",
   "repository": {
