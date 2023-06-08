@@ -4,7 +4,7 @@
   "publisher": "NeptuneCSS",
   "icon": "icon.png",
   "description": "VS Code snippets for Neptune CSS",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "scripts": {
     "package": "C:/Users/colin/AppData/Roaming/npm/vsce package"
   },

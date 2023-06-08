@@ -6,6 +6,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [2.2.0] - 2023-06-08
+
+### Added
+
+- Default Input
+- Password input
+- Search Bar
+- Select Input
+- PIN Input
+- Email Input
+- Phone Input
+- URL Input
+- Checkbox
+- Radio Button
+
 ## [2.1.0] - 2023-06-08
 
 ## Changed
