@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [2.0.5] - 2023-06-08
+
+### Fixed
+
+- Added "button-text"-elements to every button
+
 ## [2.0.0] - 2023-05-18
 
 ### Added
