@@ -1,7 +1,7 @@
 {
     // Progress Bar JS
     "Neptune Toast": {
-        "scope": "javascript",
+        "scope": "javascript, html",
         "prefix": "nep-progress-bar",
         "body": "const ${1:myProgressBar} = new ProgressBar({${2:config}});",
         "description": "Create a new Progress Bar"

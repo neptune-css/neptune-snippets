@@ -1,6 +1,6 @@
 {
     // Badges JS
-    "Neptune Default Badge": {
+    "Neptune Default Badge, html": {
         "scope": "javascript",
         "prefix": "nep-badge",
         "body": "const ${1:myBadge} = new Badge({${2:config}});",

@@ -2,13 +2,13 @@
     "Neptune JS CDN": {
         "scope": "html",
         "prefix": "nep-js-cdn",
-        "body": "<script src=\"https://cdn.jsdelivr.net/npm/neptunecss-js@${1:VERSION}/neptune.min.js\"></script>",
+        "body": "<script type=\"module\" src=\"https://cdn.jsdelivr.net/npm/neptunecss-js@latest/neptune.min.js\"></script>",
         "description": "Include Neptune JS CDN link"
     },
     "Neptune CSS CDN": {
         "scope": "html",
         "prefix": "nep-css-cdn",
-        "body": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/neptunecss@${1:VERSION}/neptune.min.css\">",
+        "body": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/neptunecss@latest/neptune.min.css\">",
         "description": "Include Neptune CSS CDN link"
     }
 }
