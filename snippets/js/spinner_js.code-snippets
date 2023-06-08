@@ -1,7 +1,7 @@
 {
     // Spinner JS
     "Neptune Link": {
-        "scope": "javascript",
+        "scope": "javascript, html",
         "prefix": "nep-spinner",
         "body": "const ${1:mySpinner} = new Spinner({${2:config}});",
         "description": "Create a new default spinner"

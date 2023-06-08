@@ -6,6 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [2.1.0] - 2023-06-08
+
+## Changed
+
+- Added html scope for JavaScript snippets
+- Set optional version in import snippets to latest
+
 ## [2.0.5] - 2023-06-08
 
 ### Fixed

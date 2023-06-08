@@ -1,7 +1,7 @@
 {
     // Toasts JS
     "Neptune Toast": {
-        "scope": "javascript",
+        "scope": "javascript, html",
         "prefix": "nep-toast",
         "body": "const ${1:myToast} = new Toast({${2:config}});",
         "description": "Create a new default toast"

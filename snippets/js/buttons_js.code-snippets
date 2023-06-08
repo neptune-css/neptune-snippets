@@ -1,7 +1,7 @@
 {
     // Buttons JS
     "Neptune Button": {
-        "scope": "javascript",
+        "scope": "javascript, html",
         "prefix": "nep-button",
         "body": "const ${1:myButton} = new Button({${2:config}});",
         "description": "Create a new default button"

@@ -1,8 +1,8 @@
 {
     "Neptune JS Import": {
-        "scope": "javascript",
+        "scope": "javascript, html",
         "prefix": "nep-js-import",
-        "body": "import { ${1:Components} from \"${2:path to Neptune JS}\"}",
+        "body": "import { ${1:Components} from \"${2:path to Neptune JS}/neptune.min.js\"}",
         "description": "Import Neptune JS Components"
     }
 }
