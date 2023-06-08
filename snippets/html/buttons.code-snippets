@@ -4,69 +4,113 @@
     "Neptune default button": {
         "scope": "html",
         "prefix": "neptune-button",
-        "body": "<button>${1:Default}</button>",
+        "body": [
+            "<button>",
+            "   <span class=\"button-text\">${1:Button}</span>",
+            "</button>"
+        ],
         "description": "Default button"
     },
     // Button sizes
     "Neptune button S": {
         "scope": "html",
         "prefix": "neptune-button-s",
-        "body": "<button class=\"button-s\">${1:Button S}</button>",
+        "body": [
+            "<button class=\"button-s\">",
+            "   <span class=\"button-text\">${1:Button S}</span>",
+            "</button>"
+        ],
         "description": "Button S"
     },
     "Neptune button M": {
         "scope": "html",
         "prefix": "neptune-button-m",
-        "body": "<button class=\"button-m\">${1:Button M}</button>",
+        "body": [
+            "<button class=\"button-m\">",
+            "   <span class=\"button-text\">${1:Button M}</span>",
+            "</button>"
+        ],
         "description": "Button M"
     },
     "Neptune button L": {
         "scope": "html",
         "prefix": "neptune-button-l",
-        "body": "<button class=\"button-l\">${1:Button L}</button>",
+        "body": [
+            "<button class=\"button-l\">",
+            "   <span class=\"button-text\">${1:Button L}</span>",
+            "</button>"
+        ],
         "description": "Button L"
     },
     // Button styles
     "Neptune button primary": {
         "scope": "html",
         "prefix": "neptune-button-primary",
-        "body": "<button class=\"button-primary\">${1:Primary}</button>",
+        "body": [
+            "< class=\"button-primary\">",
+            "   <span class=\"button-text\">${1:Primary}</span>",
+            "</button>"
+        ],
         "description": "Primary button"
     },
     "Neptune button secondary": {
         "scope": "html",
         "prefix": "neptune-button-secondary",
-        "body": "<button class=\"button-secondary\">${1:Secondary}</button>",
+        "body": [
+            "< class=\"button-secondary\">",
+            "   <span class=\"button-text\">${1:Secondary}</span>",
+            "</button>"
+        ],
         "description": "Secondary button"
     },
     "Neptune button cta": {
         "scope": "html",
         "prefix": "neptune-button-cta",
-        "body": "<button class=\"button-cta\">${1:Call to action}</button>",
+        "body": [
+            "<button class=\"button-cta\">",
+            "   <span class=\"button-text\">${1:Call to action}</span>",
+            "</button>"
+        ],
         "description": "CTA button"
     },
     "Neptune button information": {
         "scope": "html",
         "prefix": "neptune-button-info",
-        "body": "<button class=\"button-info\">${1:Information}</button>",
+        "body": [
+            "<button class=\"button-info\">",
+            "   <span class=\"button-text\">${1:Information}</span>",
+            "</button>"
+        ],
         "description": "Information button"
     },
     "Neptune button success": {
         "scope": "html",
         "prefix": "neptune-button-success",
-        "body": "<button class=\"button-success\">${1:Success}</button>",
+        "body": [
+            "<button class=\"button-success\">",
+            "   <span class=\"button-text\">${1:Success}</span>",
+            "</button>"
+        ],
         "description": "Success button"
     },
     "Neptune button warning": {
         "scope": "html",
         "prefix": "neptune-button-warning",
-        "body": "<button class=\"button-warning\">${1:Warning}</button>",
+        "body": [
+            "<button class=\"button-warning\">",
+            "   <span class=\"button-text\">${1:Warning}</span>",
+            "</button>"
+        ],
         "description": "Warning button"
     },
     "Neptune button error": {
         "scope": "html",
         "prefix": "neptune-button-error",
-        "body": "<button class=\"button-error\">${1:Error}</button>",
+        "body": [
+            "<button class=\"button-error\">",
+            "   <span class=\"button-text\">${1:Error}</span>",
+            "</button>"
+        ],
         "description": "Error button"
     }
 }
