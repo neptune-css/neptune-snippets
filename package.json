@@ -4,7 +4,7 @@
   "publisher": "NeptuneCSS",
   "icon": "icon.png",
   "description": "VS Code snippets for Neptune CSS",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "scripts": {
     "package": "C:/Users/colin/AppData/Roaming/npm/vsce package"
   },
@@ -28,6 +28,14 @@
   },
   "contributes": {
     "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/animations/import.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/animations/animations.code-snippets"
+      },
       {
         "language": "html",
         "path": "./snippets/html/import.code-snippets"

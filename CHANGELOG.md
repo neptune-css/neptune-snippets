@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## [2.3.0] - 2023-06-17
+
+### Added
+
+- Added snippets for Neptune Animations
+
 ## [2.2.0] - 2023-06-08
 
 ### Added
