@@ -1,0 +1,14 @@
+{
+    "New Neptune Animations Instance": {
+        "scope": "javascript",
+        "prefix": "nep-anim-instance",
+        "body": "const ${1: neptuneAnimate} = new NeptuneAnimate(${2: myElement}, \"${3: nep-pulse}\");",
+        "description": "Create a new instance of the NeaptuneAnimate class"
+    },
+    "Start Neptune Animation": {
+        "scope": "javascript",
+        "prefix": "nep-start-anim",
+        "body": "${1: neptuneAnimate}.startAnimation();",
+        "description": "Start Neptune Animation"
+    }
+}
